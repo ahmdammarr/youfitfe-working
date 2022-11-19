@@ -26,7 +26,7 @@
     "react-konva": "^16.10.1-0",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "shortid": "^2.2.14",
     "superagent": "^5.1.0",
     "use-image": "^1.0.5",
